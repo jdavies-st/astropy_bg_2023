@@ -1,7 +1,8 @@
 jupyter
-notebook>=6.0
-matplotlib>=3.8.0
+matplotlib
 numpy>=1.25
+scipy
+reproject
 pyyaml
 astropy>=5.3
 ccdproc
